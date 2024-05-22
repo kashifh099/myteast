@@ -1,2 +1,4 @@
 let great = "hello"
-console.log(great)
+
+let userName = "sir ameen"
+console.log(great + " "+userName)
